@@ -46,6 +46,7 @@ The Stock Comparison App allows users to analyze and compare historical data for
 
    ```bash
    streamlit run stock_comparison.py
+    In terminal input streamlit run "file path"
    ```
 
 3. In the Streamlit interface:
